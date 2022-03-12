@@ -6,12 +6,6 @@ By Gabriel Rosas
 
 
 
-## Overview
-
-[toc]
-
-
-
 ## Topology
 
 <img src="CUCM Installation images\topology.PNG" alt="topology" style="zoom: 67%;" />
@@ -28,7 +22,7 @@ By Gabriel Rosas
 | :---------------------------------------: | :----------------------------------------------------------: |
 | To upload an image, navigate to `Storage` | <img src="CUCM Installation images\1. Adding ISO to ESXi server files\1.PNG" alt="1" style="zoom:67%;" /> |
 |         Click `Datastore browser`         | <img src="CUCM Installation images\1. Adding ISO to ESXi server files\2.PNG" alt="2" style="zoom: 50%;" /> |
-| In the desired directory, click `Upload`  | ![3](CUCM Installation images\1. Adding ISO to ESXi server files\3.PNG) |
+| In the desired directory, click `Upload`  | <img src="CUCM Installation images\1. Adding ISO to ESXi server files\3.PNG" alt="3" style="zoom:100%;" /> |
 
 
 
@@ -79,7 +73,7 @@ By Gabriel Rosas
 
 |                         Instruction                          |                          Reference                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Log in to the CUCM using the Static IP in a web browser<br />Navigate to `Cisco Unified Serviceability` | ![1](CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\1.PNG) |
+| Log in to the CUCM using the Static IP in a web browser<br />Navigate to `Cisco Unified Serviceability` | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\1.PNG" alt="1" style="zoom:100%;" /> |
 |             `Activate` all Services except DHCP              | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\2.PNG" alt="2" style="zoom:50%;" /> |
 
 
@@ -88,7 +82,7 @@ By Gabriel Rosas
 
 |                         Instruction                         |                          Reference                           |
 | :---------------------------------------------------------: | :----------------------------------------------------------: |
-|        Navigate to `Cisco Unified CM Administration`        | ![3](CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\3.PNG) |
+|        Navigate to `Cisco Unified CM Administration`        | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\3.PNG" alt="3" style="zoom:100%;" /> |
 |            Navigate to `System/Cisco Unified CM`            | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\4.PNG" alt="4" style="zoom:67%;" /> |
 | Enable `Auto-Registration` and fill out the required fields | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\5.PNG" alt="5" style="zoom:50%;" /> |
 
@@ -98,8 +92,8 @@ By Gabriel Rosas
 
 |                         Instruction                          |                          Reference                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                  Navigate to `Device/Phone`                  | ![6](CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\6.PNG) |
-|                      `Add` a New Phone                       | ![7](CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\7.PNG) |
+|                  Navigate to `Device/Phone`                  | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\6.PNG" alt="6" style="zoom:100%;" /> |
+|                      `Add` a New Phone                       | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\7.PNG" alt="7" style="zoom:100%;" /> |
 |       Enter your *specific* model phone and use `SCCP`       | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\8.PNG" alt="8" style="zoom:50%;" /> |
 | Enter your phone's `mac address` and other required fields<br />Set the Owner to `Anonymous` | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\9.PNG" alt="9" style="zoom:50%;" /> |
 | Click `Save`, then add a dial number if necessary<br />Restart previous steps for other phone | ![reload](CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\reload.png) |
