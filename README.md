@@ -2,7 +2,7 @@
 *Guides and Configurations for Cisco related Projects*
 
 
-Stuff I've done:
+Stuff I've worked on:
 - Routing
   - BGP
   - OSPF
