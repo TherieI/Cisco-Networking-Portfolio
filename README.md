@@ -5,8 +5,13 @@
 Stuff I've worked on:
 - Routing
   - BGP
+    - eBGP
+    - iBGP
   - OSPF
+    - Multi-Area
+    - OSPFv3
   - EIGRP
+    - EIGRPv6
   - VRF
 - Linux
   - Kali
