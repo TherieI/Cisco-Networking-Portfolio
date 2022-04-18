@@ -28,7 +28,7 @@ Stuff I've worked on:
 - Amazon AWS
 - ESXi
 
-[EBGP]: Writeups\\Routing\\BGP\\eBGP
+[EBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/eBGP
 [IBGP]: Writeups\Routing\BGP\iBGP
 [OSPFV3]: Writeups\Routing\OSPF\OSPFv3
 [OSPFV2]: Writeups\Routing\OSPF\OSPFv2
