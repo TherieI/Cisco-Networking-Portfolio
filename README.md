@@ -29,12 +29,12 @@ Stuff I've worked on:
 - ESXi
 
 [EBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/eBGP
-[IBGP]: Writeups\Routing\BGP\iBGP
-[OSPFV3]: Writeups\Routing\OSPF\OSPFv3
-[OSPFV2]: Writeups\Routing\OSPF\OSPFv2
-[VRFLITE]: Writeups\Routing\VRF
-[CUCM]: Writeups\VoIP\Cisco-Unified-Communications-Manager
-[MAOSPF]: Writeups\Routing\OSPF\Multiarea-OSPF
-[L2ATTACKS]: Writeups\Linux\Kali-Linux
-[WLANC]: Writeups\Wireless\Wireless-LAN-Controller
-[CUCME]: Writeups\VoIP\Cisco-Unified-Communications-Manager-Express
+[IBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/iBGP
+[OSPFV3]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/OSPF/OSPFv3
+[OSPFV2]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/OSPF/OSPFv2
+[VRFLITE]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/VRF
+[CUCM]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/VoIP/Cisco-Unified-Communications-Manager
+[MAOSPF]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/OSPF/Multiarea-OSPF
+[L2ATTACKS]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Linux/Kali-Linux
+[WLANC]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Wireless/Wireless-LAN-Controller
+[CUCME]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/VoIP/Cisco-Unified-Communications-Manager-Express
