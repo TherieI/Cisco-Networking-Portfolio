@@ -8,7 +8,7 @@ Stuff I've worked on:
     - [eBGP][EBGP]
     - [iBGP][IBGP]
   - OSPF
-    - [Multi-Area](Writeups\Routing\OSPF\Multiarea OSPF)
+    - [Multi-Area][MAOSPF]
     - [OSPFv2][OSPFV2]
     - [OSPFv3][OSPFV3]
   - EIGRP
@@ -17,14 +17,14 @@ Stuff I've worked on:
     - [VRF-Lite][VRFLITE]
 - Linux
   - Kali
-    - [Layer 2 Attacks and Mitigations](Writeups\Linux\Kali Linux)
+    - [Layer 2 Attacks and Mitigations][L2ATTACKS]
 - Wireless
-  - [LAN Controller](Writeups\Wireless\Wireless LAN Controller)
+  - [WLAN Controller][WLANC]
   - Access Points
   - Ubiquiti point-to-point bridges
 - VoIP
-  - CUCME
-  - CUCM
+  - [CUCM][CUCM]
+  - [CUCME][CUCME]
 - Amazon AWS
 - ESXi
 
@@ -33,3 +33,8 @@ Stuff I've worked on:
 [OSPFV3]: Writeups\Routing\OSPF\OSPFv3
 [OSPFV2]: Writeups\Routing\OSPF\OSPFv2
 [VRFLITE]: Writeups\Routing\VRF
+[CUCM]: Writeups\VoIP\Cisco-Unified-Communications-Manager
+[MAOSPF]: Writeups\Routing\OSPF\Multiarea-OSPF
+[L2ATTACKS]: Writeups\Linux\Kali-Linux
+[WLANC]: Writeups\Wireless\Wireless-LAN-Controller
+[CUCME]: Writeups\VoIP\Cisco-Unified-Communications-Manager-Express
