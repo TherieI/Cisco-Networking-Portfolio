@@ -96,7 +96,7 @@ By Gabriel Rosas
 |                      `Add` a New Phone                       | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\7.PNG" alt="7" style="zoom:100%;" /> |
 |       Enter your *specific* model phone and use `SCCP`       | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\8.PNG" alt="8" style="zoom:50%;" /> |
 | Enter your phone's `mac address` and other required fields<br />Set the Owner to `Anonymous` | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\9.PNG" alt="9" style="zoom:50%;" /> |
-| Click `Save`, then add a dial number if necessary<br />Restart previous steps for other phone | ![reload](CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\reload.png) |
+| Click `Save`, then add a dial number if necessary<br />Restart previous steps for other phone | <img src="CUCM Installation images\4. Connecting Two IP phones (basic sadge way)\reload.png" alt="10" style="zoom:100%;" /> |
 
 
 
