@@ -3,7 +3,7 @@
 
 Here are my [certifications][CERTS].
 
-Stuff I've worked on:
+### Projects
 - Routing
   - BGP
     - [eBGP][EBGP]
