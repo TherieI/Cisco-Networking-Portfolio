@@ -1,9 +1,8 @@
 # Cisco Projects
 *Guides and Configurations for Cisco related Projects*
 
-Here are my [certifications][CERTS].
-
 ### Projects
+- [Certifications][CERTS].
 - Routing
   - BGP
     - [eBGP][EBGP]
