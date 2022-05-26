@@ -1,7 +1,7 @@
 # Cisco Projects
 *Guides and Configurations for Cisco related Projects*
 
-[Certifications][CERTS]
+Here are the [certifications][CERTS] I've taken.
 
 Stuff I've worked on:
 - Routing
