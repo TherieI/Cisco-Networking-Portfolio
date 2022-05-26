@@ -1,6 +1,7 @@
 # Cisco Projects
 *Guides and Configurations for Cisco related Projects*
 
+[Certifications][CERTS]
 
 Stuff I've worked on:
 - Routing
@@ -45,3 +46,4 @@ Stuff I've worked on:
 [CUCME]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/VoIP/Cisco-Unified-Communications-Manager-Express
 [TACACS+]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Security/AAA/TACACS+
 [RADIUS]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Security/AAA/RADIUS
+[CERTS]: https://www.credly.com/users/gabriel-rosas.df191d40
