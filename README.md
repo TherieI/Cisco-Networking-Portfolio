@@ -29,7 +29,7 @@
   - AAA
     - [TACACS+][]
     - [RADIUS][]
-  - [PBR][Policy Based Routing]
+  - [Policy Based Routing][PBR]
   
 - Amazon AWS
 - ESXi
