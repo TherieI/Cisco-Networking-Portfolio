@@ -29,10 +29,12 @@
   - AAA
     - [TACACS+][]
     - [RADIUS][]
+  - [Policy Based Routing][PBR]
   
 - Amazon AWS
 - ESXi
 
+[CERTS]: https://www.credly.com/users/gabriel-rosas.df191d40
 [EBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/eBGP
 [IBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/iBGP
 [OSPFV3]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/OSPF/OSPFv3
@@ -45,4 +47,4 @@
 [CUCME]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/VoIP/Cisco-Unified-Communications-Manager-Express
 [TACACS+]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Security/AAA/TACACS+
 [RADIUS]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Security/AAA/RADIUS
-[CERTS]: https://www.credly.com/users/gabriel-rosas.df191d40
+[PBR]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Security/Policy-Based-Routing
