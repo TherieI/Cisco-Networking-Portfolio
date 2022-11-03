@@ -1,8 +1,8 @@
-# Cisco Projects
-*Guides and Configurations for Cisco related Projects*
+# Networking Portfolio
+*This repository contains guides and configurations for Cisco-related projects. The hyperlinks below contain links to my documented projects, but also list some other experience that I have.*
 
-### Projects
-- My [Certifications][CERTS]
+### <ins>Experience</ins>
+- [Certifications][CERTS]
 - Routing
   - BGP
     - [eBGP][EBGP]
@@ -30,9 +30,12 @@
     - [TACACS+][]
     - [RADIUS][]
   - [Policy Based Routing][PBR]
-  
-- Amazon AWS
-- ESXi
+- Other Experience
+  - Amazon AWS
+  - ESXi
+  - VirtualBox
+  - Wireshark
+
 
 [CERTS]: https://www.credly.com/users/gabriel-rosas.df191d40
 [EBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/eBGP
