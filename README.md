@@ -2,7 +2,10 @@
 *This repository contains guides and configurations for Cisco-related projects. The hyperlinks below contain links to my documented projects, but also list some other experience that I have.*
 
 ### <ins>Experience</ins>
-- [Certifications][CERTS]
+- Certifications
+  - [Cisco CCNA][CCNA]
+  - [Credly][CERTS_CREDLY]
+
 - Routing
   - BGP
     - [eBGP][EBGP]
@@ -37,7 +40,7 @@
   - Wireshark
 
 
-[CERTS]: https://www.credly.com/users/gabriel-rosas.df191d40
+[CERTS_CREDLY]: https://www.credly.com/users/gabriel-rosas.df191d40
 [EBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/eBGP
 [IBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/iBGP
 [OSPFV3]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/OSPF/OSPFv3
@@ -51,3 +54,4 @@
 [TACACS+]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Security/AAA/TACACS+
 [RADIUS]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Security/AAA/RADIUS
 [PBR]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Security/Policy-Based-Routing
+[CCNA]: https://cp.certmetrics.com/cisco/en/public/verify/credential/9V19CCF3THE1Q6SW
