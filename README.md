@@ -1,5 +1,6 @@
 # Networking Portfolio
 *This repository contains guides and configurations for Cisco-related projects. The hyperlinks below contain links to my documented projects, but also list some other experience that I have.*
+[View the full portfolio here!][PORTFOLIO]
 
 ### <ins>Experience</ins>
 - Certifications
@@ -40,6 +41,7 @@
   - Wireshark
 
 
+[PORTFOLIO]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Portfolio.pdf
 [CERTS_CREDLY]: https://www.credly.com/users/gabriel-rosas.df191d40
 [EBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/eBGP
 [IBGP]: https://github.com/TherieI/Cisco-Projects/tree/main/Writeups/Routing/BGP/iBGP
